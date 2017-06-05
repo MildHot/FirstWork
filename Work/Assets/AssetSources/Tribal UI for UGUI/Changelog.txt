@@ -1,0 +1,36 @@
+Version 1.6:
+- Updated scripts for Unity 5.3.
+
+Version 1.5:
+- Updated vertex modifying scripts (Unity 5.2.2f1 changes).
+
+Version 1.4:
+- Updated vertex modifying scripts (Unity 5.2 changes).
+- Improved UIDragObject, now handles canvas scaling and all canvas render modes.
+
+Version 1.3:
+- Fixed the UIDragObject editor script.
+- Improved the window manager.
+
+Version 1.2:
+- Fixed WP8 compile error (note that the internal bug is fixed in Unity Patch 5.0.1p1).
+- Added raycast filter to the play button.
+- Disabled all the navigations to prevent highlight getting stuck.
+- Added missing navigation property to the UITab editor script.
+
+Version 1.1:
+- Fixed highlight transition editor script.
+- Moved the database creation menu to section assets.
+- Fixed SelectField Label editor script.
+- Improved UIDragObject inertia dampening.
+- Added constrain within canvas option to the UIDragObject script.
+- Improved the scroll bar prefabs.
+- Improved the select field prefab.
+- Switched to pixel perfect canvas rendering mode.
+- Improved the UISelectField script.
+- Fixed AOT cross compile error.
+- Improved UITooltip for quality, attribute rows will now have fixed size to guarantee pixel perfect text.
+- Fixed the Circular and Rectangular Raycast filters editor scripts not including the canvas scaling factor.
+
+Version 1.0:
+- Initial release.

@@ -1,0 +1,1961 @@
+fileFormatVersion: 2
+guid: e473739ccac60da4ca6b023d33ccb8ed
+timeCreated: 1449677752
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LargeButton_Background
+    21300002: LargeButton_NormalState
+    21300004: LargeButton_Label_Play
+    21300006: LargeFrame_Background
+    21300008: LargeFrame_Borders
+    21300010: LargeFrame_ExampleImage
+    21300012: LargeFrame_Footer
+    21300014: NormalButton_Background
+    21300016: TinyButton_Background
+    21300018: ActionButton_2_Background
+    21300020: ActionButton_0_Background
+    21300022: ActionButton_1_Background
+    21300024: ActionButton_0
+    21300026: ActionButton_1
+    21300028: ActionButton_2
+    21300030: ActionButton_Fist
+    21300032: ActionButton_Swords
+    21300034: ActionButton_Lightning
+    21300036: Star_1_Slot
+    21300038: Star_1
+    21300040: Star_2_Slot
+    21300042: Star_0_Slot
+    21300044: Star_3
+    21300046: Star_0
+    21300048: Star_2
+    21300050: SmallFrame_Background
+    21300052: SmallFrame_Borders
+    21300054: SmallFrame_ExampleImage
+    21300056: Padlock
+    21300058: Joystick_Background
+    21300060: Joystick_ButtonsMerged
+    21300062: Joystick_Button_Left
+    21300064: Joystick_Button_Top
+    21300066: Joystick_Button_Bottom
+    21300068: Joystick_Button_Right
+    21300070: Joystick_Arrow_Horizontal
+    21300072: Joystick_Arrow_Vertical
+    21300074: LoadingBar_Background
+    21300076: LoadingBar_Fill
+    21300078: LargeUnitBar_Background
+    21300080: LargeUnitBar_Fill_Health
+    21300082: LargeUnitBar_Fill_Power
+    21300084: StepBar_Background
+    21300086: StepBar_Fill_Incomplete
+    21300088: StepBar_Fill
+    21300090: StepBar_Bubble
+    21300092: StepBar_Separator_Inactive
+    21300094: StepBar_Separator
+    21300096: Window_Background
+    21300098: Window_Header
+    21300100: Window_CloseButton_Hover
+    21300102: Window_CloseButton_Normal
+    21300104: Tab_Active
+    21300106: Tab_Inactive
+    21300108: Tab_Bottom_Active
+    21300110: Tab_Bottom_Inactive
+    21300112: Tab_Active_Highlighted
+    21300114: Tab_Inactive_Highlighted
+    21300116: Tab_Inactive_Pressed
+    21300118: Tab_Active_Pressed
+    21300120: ImageBox_ExampleImage
+    21300122: ImageBox_Background
+    21300124: ScrollBar_Horizontal_Background
+    21300126: ScrollBar_Vertical_Background
+    21300128: ScrollBar_Horizontal_Foreground
+    21300130: ScrollBar_Vertical_Foreground
+    21300132: ScrollBar_Horizontal_Thumb
+    21300134: ScrollBar_Vertical_Thumb
+    21300136: ProgressBar_Vertical_Background
+    21300138: ProgressBar_Vertical_Fill
+    21300140: Slider_Horizontal_Background
+    21300142: Slider_Vertical_Background
+    21300144: Slider_Vertical_Thumb
+    21300146: Slider_Horizontal_Thumb
+    21300148: Checkbox_Background
+    21300150: RadioCheckbox_Background
+    21300152: Checkbox_Checkmark
+    21300154: RadioCheckbox_Checkmark
+    21300156: SmallArrow_Right
+    21300158: SmallArrow_Left
+    21300160: Arrow_Up
+    21300162: Arrow_Right
+    21300164: Arrow_Down
+    21300166: Arrow_Left
+    21300168: SmallArrow_Middle
+    21300170: TextField_Normal
+    21300172: TextField_Focused
+    21300174: Checkbox_Background_Highlighted
+    21300176: RadioCheckbox_Background_Highlighted
+    21300178: PopupList_Background
+    21300180: PopupList_Arrow_Normal
+    21300182: PopupList_Separator
+    21300184: PopupList_Highlight
+    21300186: PopupList_Arrow_Active
+    21300188: ItemBox_Background
+    21300190: ItemBox_Icon_Background
+    21300192: ItemBox_ExampleIcon
+    21300194: ItemBox_Icon_Borders
+    21300196: GoldCoin
+    21300198: ScrollView_Background
+    21300200: ScrollView_Item_Background
+    21300202: ScrollView_Item_Icon_Background
+    21300204: ScrollView_Item_Icon_Borders
+    21300206: WizardMenu_Middle
+    21300208: WizardMenu_Middle_Active
+    21300210: WizardMenu_Left
+    21300212: WizardMenu_Right
+    21300214: WizardMenu_Right_Active
+    21300216: WizardMenu_Left_Active
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: LargeFrame_Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 277
+        height: 383
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 264, y: -353}
+        - {x: 277, y: -330}
+        - {x: 277, y: -313}
+        - {x: 274, y: -299}
+        - {x: 270, y: -286}
+        - {x: 265, y: -282}
+        - {x: 251, y: -273}
+        - {x: 247, y: -271}
+        - {x: 247, y: -32}
+        - {x: 250, y: -32}
+        - {x: 247, y: -5}
+        - {x: 237, y: 0}
+        - {x: 38, y: 0}
+        - {x: 30, y: -6}
+        - {x: 27, y: -16}
+        - {x: 28, y: -36}
+        - {x: 30, y: -36}
+        - {x: 30, y: -271}
+        - {x: 26, y: -273}
+        - {x: 11, y: -281}
+        - {x: 3, y: -293}
+        - {x: 4, y: -314}
+        - {x: 0, y: -319}
+        - {x: 0, y: -328}
+        - {x: 7, y: -339}
+        - {x: 18, y: -359}
+        - {x: 34, y: -364}
+        - {x: 118, y: -383}
+        - {x: 160, y: -383}
+        - {x: 180, y: -379}
+        - {x: 204, y: -372}
+        - {x: 254, y: -360}
+    - name: LargeButton_Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 534
+        height: 175
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 380, y: -175}
+        - {x: 450, y: -175}
+        - {x: 483, y: -160}
+        - {x: 501, y: -148}
+        - {x: 505, y: -128}
+        - {x: 477, y: -108}
+        - {x: 534, y: -71}
+        - {x: 534, y: -37}
+        - {x: 467, y: -33}
+        - {x: 460, y: 0}
+        - {x: 373, y: 0}
+        - {x: 360, y: -7}
+        - {x: 169, y: -8}
+        - {x: 140, y: 0}
+        - {x: 92, y: 0}
+        - {x: 88, y: -1}
+        - {x: 87, y: -16}
+        - {x: 88, y: -24}
+        - {x: 0, y: -36}
+        - {x: 0, y: -86}
+        - {x: 35, y: -131}
+        - {x: 33, y: -142}
+        - {x: 38, y: -156}
+        - {x: 102, y: -175}
+        - {x: 174, y: -175}
+        - {x: 235, y: -157}
+        - {x: 242, y: -150}
+        - {x: 308, y: -162}
+    - name: ImageBox_ExampleImage
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 586
+        height: 152
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -152}
+        - {x: 586, y: -152}
+        - {x: 586, y: 0}
+    - name: LargeUnitBar_Background
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 153
+        width: 638
+        height: 108
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 538, y: -96}
+        - {x: 537, y: -102}
+        - {x: 542, y: -108}
+        - {x: 566, y: -108}
+        - {x: 593, y: -100}
+        - {x: 622, y: -89}
+        - {x: 617, y: -65}
+        - {x: 638, y: -57}
+        - {x: 638, y: -22}
+        - {x: 574, y: 0}
+        - {x: 65, y: 0}
+        - {x: 56, y: -4}
+        - {x: 43, y: -13}
+        - {x: 0, y: -24}
+        - {x: 0, y: -58}
+        - {x: 30, y: -97}
+        - {x: 66, y: -108}
+        - {x: 101, y: -108}
+        - {x: 107, y: -97}
+        - {x: 215, y: -89}
+        - {x: 423, y: -89}
+    - name: LoadingBar_Background
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 701
+        height: 97
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 643, y: -97}
+        - {x: 657, y: -93}
+        - {x: 683, y: -77}
+        - {x: 701, y: -61}
+        - {x: 701, y: 0}
+        - {x: 582, y: 0}
+        - {x: 530, y: -9}
+        - {x: 238, y: 0}
+        - {x: 51, y: 0}
+        - {x: 0, y: -13}
+        - {x: 0, y: -47}
+        - {x: 30, y: -86}
+        - {x: 65, y: -97}
+        - {x: 172, y: -97}
+        - {x: 275, y: -75}
+        - {x: 524, y: -97}
+    - name: Window_Background
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 0
+        width: 256
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline:
+      - - {x: 256, y: -241}
+        - {x: 256, y: -15}
+        - {x: 254, y: -10}
+        - {x: 246, y: -2}
+        - {x: 241, y: 0}
+        - {x: 15, y: 0}
+        - {x: 10, y: -2}
+        - {x: 2, y: -10}
+        - {x: 0, y: -15}
+        - {x: 0, y: -241}
+        - {x: 2, y: -246}
+        - {x: 10, y: -254}
+        - {x: 15, y: -256}
+        - {x: 241, y: -256}
+        - {x: 246, y: -254}
+        - {x: 254, y: -246}
+    - name: LargeFrame_Borders
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 216
+        height: 279
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -186}
+        - {x: 1, y: -279}
+        - {x: 216, y: -279}
+        - {x: 216, y: 0}
+      - - {x: 13, y: -271}
+        - {x: 14, y: -268}
+        - {x: 205, y: -268}
+        - {x: 209, y: -273}
+        - {x: 209, y: -272}
+        - {x: 10, y: -272}
+        - {x: 10, y: -273}
+    - name: LargeFrame_ExampleImage
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 98
+        width: 209
+        height: 271
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -271}
+        - {x: 209, y: -271}
+        - {x: 209, y: 0}
+    - name: StepBar_Background
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 257
+        width: 668
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 664, y: -11}
+        - {x: 654, y: -1}
+        - {x: 652, y: 0}
+        - {x: 16, y: 0}
+        - {x: 0, y: -15}
+        - {x: 0, y: -49}
+        - {x: 7, y: -59}
+        - {x: 13, y: -62}
+        - {x: 659, y: -62}
+        - {x: 668, y: -51}
+        - {x: 668, y: -16}
+    - name: Joystick_Background
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 280
+        width: 213
+        height: 165
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 213, y: -38}
+        - {x: 176, y: 0}
+        - {x: 36, y: 0}
+        - {x: 0, y: -36}
+        - {x: 0, y: -94}
+        - {x: 16, y: -142}
+        - {x: 28, y: -159}
+        - {x: 53, y: -165}
+        - {x: 162, y: -165}
+        - {x: 193, y: -152}
+        - {x: 213, y: -88}
+    - name: Window_Header
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 262
+        width: 622
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 66, y: 20, z: 66, w: 20}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -55}
+        - {x: 622, y: -55}
+        - {x: 622, y: 0}
+    - name: ScrollView_Background
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 318
+        width: 173
+        height: 187
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 12, y: 16, z: 12, w: 16}
+      outline:
+      - - {x: 173, y: -7}
+        - {x: 171, y: -5}
+        - {x: 170, y: -1}
+        - {x: 169, y: 0}
+        - {x: 3, y: 0}
+        - {x: 0, y: -3}
+        - {x: 0, y: -184}
+        - {x: 3, y: -187}
+        - {x: 169, y: -187}
+        - {x: 170, y: -186}
+        - {x: 170, y: -184}
+        - {x: 173, y: -180}
+    - name: LargeButton_NormalState
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 98
+        width: 284
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 0, y: -4}
+        - {x: 0, y: -98}
+        - {x: 4, y: -102}
+        - {x: 4, y: -105}
+        - {x: 280, y: -105}
+        - {x: 284, y: -99}
+        - {x: 284, y: -4}
+        - {x: 280, y: 0}
+    - name: SmallFrame_Background
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 318
+        width: 149
+        height: 178
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -164}
+        - {x: 10, y: -169}
+        - {x: 37, y: -178}
+        - {x: 149, y: -178}
+        - {x: 149, y: 0}
+    - name: ActionButton_2_Background
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 98
+        width: 145
+        height: 146
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -114}
+        - {x: 18, y: -146}
+        - {x: 130, y: -146}
+        - {x: 145, y: -138}
+        - {x: 145, y: 0}
+    - name: ActionButton_0_Background
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 320
+        width: 142
+        height: 142
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -123}
+        - {x: 36, y: -142}
+        - {x: 121, y: -142}
+        - {x: 142, y: -117}
+        - {x: 142, y: -8}
+        - {x: 138, y: 0}
+    - name: ItemBox_Background
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 370
+        width: 171
+        height: 110
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 10, y: 12, z: 10, w: 36}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 0, y: -4}
+        - {x: 0, y: -107}
+        - {x: 3, y: -110}
+        - {x: 171, y: -110}
+        - {x: 171, y: 0}
+    - name: LargeFrame_Footer
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 320
+        width: 231
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -57}
+        - {x: 86, y: -78}
+        - {x: 132, y: -78}
+        - {x: 225, y: -58}
+        - {x: 231, y: -32}
+        - {x: 231, y: -8}
+        - {x: 224, y: 0}
+    - name: Joystick_ButtonsMerged
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 320
+        width: 132
+        height: 132
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 0, y: -17}
+        - {x: 0, y: -113}
+        - {x: 26, y: -132}
+        - {x: 107, y: -132}
+        - {x: 132, y: -116}
+        - {x: 132, y: -20}
+        - {x: 122, y: 0}
+    - name: LargeUnitBar_Fill_Health
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 453
+        width: 498
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 0}
+        - {x: 0, y: -18}
+        - {x: 0, y: -26}
+        - {x: 3, y: -34}
+        - {x: 497, y: -34}
+        - {x: 498, y: -30}
+        - {x: 498, y: -16}
+        - {x: 480, y: 0}
+    - name: ImageBox_Background
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 320
+        width: 128
+        height: 128
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 0}
+      - - {x: 20, y: -19}
+        - {x: 108, y: -19}
+        - {x: 108, y: -109}
+        - {x: 20, y: -109}
+    - name: ActionButton_1_Background
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 463
+        width: 147
+        height: 109
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 0}
+        - {x: 0, y: -14}
+        - {x: 0, y: -99}
+        - {x: 10, y: -109}
+        - {x: 143, y: -109}
+        - {x: 147, y: -95}
+        - {x: 147, y: -10}
+        - {x: 140, y: 0}
+    - name: LoadingBar_Fill
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 488
+        width: 551
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: SmallFrame_Borders
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 481
+        width: 113
+        height: 113
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -113}
+        - {x: 113, y: -113}
+        - {x: 113, y: 0}
+      - - {x: 7, y: -7}
+        - {x: 106, y: -7}
+        - {x: 106, y: -106}
+        - {x: 7, y: -106}
+    - name: SmallFrame_ExampleImage
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 497
+        width: 111
+        height: 111
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -111}
+        - {x: 111, y: -111}
+        - {x: 111, y: 0}
+    - name: Tab_Inactive_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 318
+        width: 192
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 36, y: 0, z: 36, w: 0}
+      outline:
+      - - {x: 10, y: 0}
+        - {x: 0, y: -8}
+        - {x: 0, y: -57}
+        - {x: 192, y: -57}
+        - {x: 192, y: -8}
+        - {x: 183, y: 0}
+    - name: Tab_Inactive
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 446
+        width: 192
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 36, y: 0, z: 36, w: 0}
+      outline:
+      - - {x: 10, y: 0}
+        - {x: 0, y: -8}
+        - {x: 0, y: -57}
+        - {x: 192, y: -57}
+        - {x: 192, y: -8}
+        - {x: 183, y: 0}
+    - name: Tab_Active
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 504
+        width: 192
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 36, y: 0, z: 36, w: 0}
+      outline:
+      - - {x: 10, y: 0}
+        - {x: 0, y: -8}
+        - {x: 0, y: -57}
+        - {x: 192, y: -57}
+        - {x: 192, y: -8}
+        - {x: 183, y: 0}
+    - name: Tab_Inactive_Pressed
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 516
+        width: 192
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 36, y: 0, z: 36, w: 0}
+      outline:
+      - - {x: 10, y: 0}
+        - {x: 0, y: -8}
+        - {x: 0, y: -57}
+        - {x: 192, y: -57}
+        - {x: 192, y: -8}
+        - {x: 183, y: 0}
+    - name: Tab_Active_Pressed
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 573
+        width: 192
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 36, y: 0, z: 36, w: 0}
+      outline:
+      - - {x: 10, y: 0}
+        - {x: 0, y: -8}
+        - {x: 0, y: -57}
+        - {x: 192, y: -57}
+        - {x: 192, y: -8}
+        - {x: 183, y: 0}
+    - name: Tab_Active_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 516
+        width: 192
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 36, y: 0, z: 36, w: 0}
+      outline:
+      - - {x: 10, y: 0}
+        - {x: 0, y: -8}
+        - {x: 0, y: -57}
+        - {x: 192, y: -57}
+        - {x: 192, y: -8}
+        - {x: 183, y: 0}
+    - name: LargeButton_Label_Play
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 516
+        width: 164
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -63}
+        - {x: 159, y: -63}
+        - {x: 164, y: -52}
+        - {x: 164, y: 0}
+    - name: StepBar_Fill_Incomplete
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 622
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: StepBar_Fill
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 622
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WizardMenu_Middle
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 595
+        width: 148
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -22}
+        - {x: 14, y: -66}
+        - {x: 148, y: -66}
+        - {x: 148, y: -49}
+        - {x: 134, y: -4}
+    - name: LargeUnitBar_Fill_Power
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 478
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WizardMenu_Middle_Active
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 594
+        width: 146
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -15}
+        - {x: 8, y: -56}
+        - {x: 15, y: -64}
+        - {x: 146, y: -64}
+        - {x: 146, y: -45}
+        - {x: 145, y: -40}
+        - {x: 131, y: 0}
+    - name: NormalButton_Background
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 609
+        width: 148
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 0}
+        - {x: 0, y: -4}
+        - {x: 0, y: -52}
+        - {x: 2, y: -55}
+        - {x: 145, y: -55}
+        - {x: 148, y: -53}
+        - {x: 148, y: -2}
+        - {x: 146, y: 0}
+    - name: ActionButton_Swords
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 370
+        width: 88
+        height: 88
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -72}
+        - {x: 8, y: -88}
+        - {x: 82, y: -88}
+        - {x: 88, y: -85}
+        - {x: 88, y: -4}
+        - {x: 75, y: 0}
+    - name: ActionButton_Lightning
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 504
+        width: 88
+        height: 88
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -71}
+        - {x: 6, y: -88}
+        - {x: 81, y: -88}
+        - {x: 88, y: -74}
+        - {x: 88, y: -3}
+        - {x: 85, y: 0}
+    - name: ActionButton_Fist
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 562
+        width: 88
+        height: 88
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -77}
+        - {x: 9, y: -86}
+        - {x: 12, y: -88}
+        - {x: 81, y: -88}
+        - {x: 88, y: -74}
+        - {x: 88, y: -5}
+        - {x: 83, y: 0}
+    - name: WizardMenu_Left
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 593
+        width: 106
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -66}
+        - {x: 106, y: -66}
+        - {x: 106, y: -47}
+        - {x: 92, y: 0}
+    - name: WizardMenu_Right
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 593
+        width: 106
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -22}
+        - {x: 14, y: -66}
+        - {x: 106, y: -66}
+        - {x: 106, y: 0}
+    - name: WizardMenu_Right_Active
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 574
+        width: 104
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -13}
+        - {x: 13, y: -57}
+        - {x: 14, y: -60}
+        - {x: 16, y: -64}
+        - {x: 104, y: -64}
+        - {x: 104, y: 0}
+    - name: WizardMenu_Left_Active
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 631
+        width: 104
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -64}
+        - {x: 104, y: -64}
+        - {x: 104, y: -46}
+        - {x: 89, y: 0}
+    - name: ScrollView_Item_Background
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 506
+        width: 161
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 0}
+        - {x: 0, y: -2}
+        - {x: 0, y: -39}
+        - {x: 161, y: -39}
+        - {x: 161, y: -3}
+        - {x: 159, y: 0}
+    - name: Joystick_Button_Left
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 631
+        width: 56
+        height: 95
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 0}
+        - {x: 0, y: -21}
+        - {x: 0, y: -77}
+        - {x: 14, y: -95}
+        - {x: 43, y: -95}
+        - {x: 56, y: -67}
+        - {x: 56, y: -6}
+        - {x: 39, y: 0}
+    - name: Joystick_Button_Top
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 662
+        width: 94
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 0}
+        - {x: 0, y: -9}
+        - {x: 0, y: -31}
+        - {x: 13, y: -54}
+        - {x: 64, y: -54}
+        - {x: 94, y: -37}
+        - {x: 94, y: -13}
+        - {x: 74, y: 0}
+    - name: Joystick_Button_Right
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 662
+        width: 53
+        height: 95
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 0}
+        - {x: 0, y: -22}
+        - {x: 0, y: -69}
+        - {x: 16, y: -95}
+        - {x: 43, y: -95}
+        - {x: 53, y: -83}
+        - {x: 53, y: -15}
+        - {x: 40, y: 0}
+    - name: Joystick_Button_Bottom
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 399
+        width: 95
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: -14}
+        - {x: 69, y: 0}
+        - {x: 30, y: 0}
+        - {x: 0, y: -18}
+        - {x: 0, y: -51}
+        - {x: 6, y: -53}
+        - {x: 83, y: -53}
+        - {x: 91, y: -42}
+        - {x: 95, y: -37}
+        - {x: 95, y: -30}
+    - name: ProgressBar_Vertical_Background
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 662
+        width: 39
+        height: 127
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -127}
+        - {x: 39, y: -127}
+        - {x: 39, y: 0}
+    - name: Star_1_Slot
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 696
+        width: 66
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: -17}
+        - {x: 51, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -54}
+        - {x: 1, y: -65}
+        - {x: 54, y: -65}
+        - {x: 59, y: -58}
+        - {x: 65, y: -31}
+      - - {x: 59, y: -51}
+        - {x: 61, y: -53}
+        - {x: 65, y: -52}
+        - {x: 66, y: -51}
+        - {x: 66, y: -45}
+        - {x: 64, y: -45}
+        - {x: 59, y: -49}
+      - - {x: 62, y: -40}
+        - {x: 63, y: -43}
+        - {x: 66, y: -43}
+        - {x: 66, y: -38}
+        - {x: 64, y: -38}
+    - name: PopupList_Background
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 574
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 14, y: 10, z: 14, w: 8}
+      outline:
+      - - {x: 3, y: 0}
+        - {x: 3, y: -64}
+        - {x: 61, y: -64}
+        - {x: 61, y: 0}
+    - name: ProgressBar_Vertical_Fill
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 280
+        width: 33
+        height: 121
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -121}
+        - {x: 33, y: -121}
+        - {x: 33, y: -110}
+        - {x: 0, y: -110}
+      - - {x: 0, y: -107}
+        - {x: 33, y: -107}
+        - {x: 33, y: -94}
+        - {x: 0, y: -94}
+      - - {x: 0, y: -91}
+        - {x: 33, y: -91}
+        - {x: 33, y: -78}
+        - {x: 0, y: -78}
+      - - {x: 0, y: -75}
+        - {x: 33, y: -75}
+        - {x: 33, y: -62}
+        - {x: 0, y: -62}
+      - - {x: 0, y: -59}
+        - {x: 33, y: -59}
+        - {x: 33, y: -46}
+        - {x: 0, y: -46}
+      - - {x: 0, y: -43}
+        - {x: 33, y: -43}
+        - {x: 33, y: -30}
+        - {x: 0, y: -30}
+      - - {x: 0, y: -27}
+        - {x: 33, y: -27}
+        - {x: 33, y: -14}
+        - {x: 0, y: -14}
+      - - {x: 0, y: 0}
+        - {x: 0, y: -11}
+        - {x: 33, y: -11}
+        - {x: 33, y: 0}
+    - name: ItemBox_Icon_Background
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 318
+        width: 63
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -62}
+        - {x: 63, y: -62}
+        - {x: 63, y: 0}
+    - name: TextField_Focused
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 446
+        width: 64
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: 0, y: -1}
+        - {x: 0, y: -57}
+        - {x: 64, y: -57}
+        - {x: 64, y: 0}
+    - name: TextField_Normal
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 546
+        width: 64
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: 0, y: -1}
+        - {x: 0, y: -57}
+        - {x: 64, y: -57}
+        - {x: 64, y: 0}
+    - name: Slider_Horizontal_Background
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 245
+        width: 329
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 54, y: 0, z: 35, w: 0}
+      outline: []
+    - name: ItemBox_ExampleIcon
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 481
+        width: 56
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -56}
+        - {x: 56, y: -56}
+        - {x: 56, y: 0}
+    - name: ItemBox_Icon_Borders
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 399
+        width: 54
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -53}
+        - {x: 54, y: -53}
+        - {x: 54, y: 0}
+      - - {x: 13, y: -12}
+        - {x: 41, y: -12}
+        - {x: 41, y: -40}
+        - {x: 13, y: -40}
+    - name: Star_1
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 318
+        width: 53
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 0, y: -1}
+        - {x: 0, y: -37}
+        - {x: 4, y: -50}
+        - {x: 45, y: -50}
+        - {x: 53, y: -28}
+        - {x: 53, y: -7}
+        - {x: 49, y: 0}
+    - name: StepBar_Bubble
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 98
+        width: 49
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 0}
+        - {x: 0, y: -10}
+        - {x: 0, y: -49}
+        - {x: 6, y: -54}
+        - {x: 41, y: -54}
+        - {x: 49, y: -47}
+        - {x: 49, y: -13}
+        - {x: 39, y: 0}
+    - name: Star_2_Slot
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 399
+        width: 47
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -8}
+        - {x: 39, y: 0}
+        - {x: 11, y: 0}
+        - {x: 0, y: -4}
+        - {x: 0, y: -52}
+        - {x: 23, y: -52}
+        - {x: 36, y: -51}
+        - {x: 46, y: -45}
+        - {x: 47, y: -39}
+    - name: Star_0_Slot
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 574
+        width: 49
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 0}
+        - {x: 0, y: -6}
+        - {x: 0, y: -48}
+        - {x: 48, y: -48}
+        - {x: 49, y: -41}
+        - {x: 49, y: -4}
+        - {x: 44, y: 0}
+    - name: Padlock
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 609
+        width: 37
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -50}
+        - {x: 37, y: -50}
+        - {x: 37, y: -5}
+        - {x: 36, y: 0}
+    - name: ScrollView_Item_Icon_Background
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 696
+        width: 42
+        height: 42
+      alignment: 1
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 0}
+    - name: Star_0
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 574
+        width: 40
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 0}
+        - {x: 12, y: 0}
+        - {x: 0, y: -6}
+        - {x: 0, y: -25}
+        - {x: 6, y: -41}
+        - {x: 9, y: -42}
+        - {x: 37, y: -42}
+        - {x: 40, y: -23}
+        - {x: 40, y: -9}
+    - name: Star_3
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 204
+        width: 42
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 0}
+        - {x: 0, y: -5}
+        - {x: 0, y: -35}
+        - {x: 2, y: -40}
+        - {x: 37, y: -40}
+        - {x: 42, y: -25}
+        - {x: 42, y: -8}
+        - {x: 34, y: 0}
+    - name: TinyButton_Background
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 463
+        width: 68
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 8, y: 0, z: 8, w: 0}
+      outline: []
+    - name: SmallArrow_Left
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 538
+        width: 47
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 0}
+        - {x: 0, y: -9}
+        - {x: 0, y: -25}
+        - {x: 10, y: -34}
+        - {x: 35, y: -34}
+        - {x: 47, y: -30}
+        - {x: 47, y: -1}
+        - {x: 44, y: 0}
+    - name: SmallArrow_Right
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 204
+        width: 47
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -31}
+        - {x: 13, y: -34}
+        - {x: 37, y: -34}
+        - {x: 47, y: -25}
+        - {x: 47, y: -9}
+        - {x: 36, y: 0}
+    - name: Arrow_Up
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 562
+        width: 54
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arrow_Left
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 504
+        width: 29
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arrow_Down
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 204
+        width: 54
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arrow_Right
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 497
+        width: 29
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Star_2
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 204
+        width: 40
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 0}
+        - {x: 0, y: -5}
+        - {x: 0, y: -35}
+        - {x: 1, y: -37}
+        - {x: 37, y: -37}
+        - {x: 40, y: -23}
+        - {x: 40, y: -9}
+        - {x: 31, y: 0}
+    - name: Slider_Vertical_Background
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 559
+        width: 11
+        height: 128
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 54, z: 0, w: 24}
+      outline: []
+    - name: StepBar_Separator_Inactive
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 204
+        width: 69
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: StepBar_Separator
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 574
+        width: 69
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RadioCheckbox_Background_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 552
+        width: 36
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 0, y: -5}
+        - {x: 0, y: -36}
+        - {x: 34, y: -36}
+        - {x: 36, y: -33}
+        - {x: 36, y: -5}
+        - {x: 31, y: 0}
+    - name: Checkbox_Background
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 402
+        width: 36
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -34}
+        - {x: 2, y: -36}
+        - {x: 34, y: -36}
+        - {x: 36, y: -34}
+        - {x: 36, y: 0}
+    - name: Checkbox_Background_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 574
+        width: 36
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -34}
+        - {x: 2, y: -36}
+        - {x: 34, y: -36}
+        - {x: 36, y: -34}
+        - {x: 36, y: 0}
+    - name: RadioCheckbox_Background
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 595
+        width: 36
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 0, y: -5}
+        - {x: 0, y: -36}
+        - {x: 34, y: -36}
+        - {x: 36, y: -33}
+        - {x: 36, y: -5}
+        - {x: 31, y: 0}
+    - name: Joystick_Arrow_Vertical
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 617
+        width: 38
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 0, y: -11}
+        - {x: 0, y: -32}
+        - {x: 4, y: -34}
+        - {x: 34, y: -34}
+        - {x: 38, y: -31}
+        - {x: 38, y: -3}
+        - {x: 31, y: 0}
+    - name: Joystick_Arrow_Horizontal
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 623
+        width: 34
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -33}
+        - {x: 5, y: -38}
+        - {x: 21, y: -38}
+        - {x: 34, y: -31}
+        - {x: 34, y: -7}
+        - {x: 28, y: 0}
+    - name: Window_CloseButton_Hover
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 631
+        width: 33
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -34}
+        - {x: 33, y: -34}
+        - {x: 33, y: 0}
+    - name: Window_CloseButton_Normal
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 639
+        width: 33
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -34}
+        - {x: 33, y: -34}
+        - {x: 33, y: 0}
+    - name: ScrollView_Item_Icon_Borders
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 399
+        width: 32
+        height: 33
+      alignment: 1
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -33}
+        - {x: 32, y: -33}
+        - {x: 32, y: 0}
+      - - {x: 8, y: -8}
+        - {x: 24, y: -8}
+        - {x: 24, y: -25}
+        - {x: 8, y: -25}
+    - name: PopupList_Highlight
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 666
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 0}
+    - name: PopupList_Arrow_Active
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 595
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -7}
+        - {x: 0, y: -19}
+        - {x: 0, y: -31}
+        - {x: 1, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -16}
+        - {x: 23, y: -7}
+    - name: PopupList_Arrow_Normal
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 639
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -9}
+        - {x: 0, y: -24}
+        - {x: 10, y: -32}
+        - {x: 23, y: -32}
+        - {x: 32, y: -24}
+        - {x: 32, y: -9}
+    - name: ScrollBar_Horizontal_Background
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 546
+        width: 64
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 12, y: 0, z: 12, w: 0}
+      outline: []
+    - name: ScrollBar_Vertical_Background
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 439
+        width: 13
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 12, z: 0, w: 12}
+      outline: []
+    - name: SmallArrow_Middle
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 257
+        width: 22
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Slider_Horizontal_Thumb
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 433
+        width: 24
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Slider_Vertical_Thumb
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 463
+        width: 19
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Checkbox_Checkmark
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 204
+        width: 23
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GoldCoin
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 223
+        width: 19
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RadioCheckbox_Checkmark
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 559
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ScrollBar_Vertical_Foreground
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 538
+        width: 9
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 12, z: 0, w: 12}
+      outline: []
+    - name: ScrollBar_Horizontal_Foreground
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 234
+        width: 28
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 10, y: 0, z: 10, w: 0}
+      outline: []
+    - name: ScrollBar_Horizontal_Thumb
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 439
+        width: 12
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PopupList_Separator
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 589
+        width: 32
+        height: 2
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 2, y: 0, z: 2, w: 0}
+      outline: []
+    - name: ScrollBar_Vertical_Thumb
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 433
+        width: 5
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: Tribal UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

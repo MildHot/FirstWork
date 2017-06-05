@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace>
+    </RootNamespace>
+    <ProjectGuid>{CD16A056-7098-FDB0-AD59-087260F19C4B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_4;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>G:/unity5.3/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>G:/unity5.3/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Databases\UIItemDatabase.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Databases\UISpellDatabase.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Databases\UITalentDatabase.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Demo\DemoArrow.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Effects\Gradient.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Effects\NicerOutline.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\AnimationTriggersExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\ColorBlockExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\SpriteStateExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UIEquipmentType.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UIItemInfo.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UIItemSlot_Group.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UISpellInfo.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UISpellInfo_Flags.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UISpellSlot_Group.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UITalentInfo.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UITooltipLines.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Enums, Structs and Serializables\UIWindowID.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Layout\HorizontalLayoutGroupExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Layout\HorizontalOrVerticalLayoutGroupExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Layout\ILayoutElementExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Layout\LayoutElementExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Layout\LayoutUtilityExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Layout\VerticalLayoutGroupExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\BitMaskAttribute.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\BreakPrefabConnection.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\CommonColorBuffer.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\ElementPositionForQuality.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\LetterSpacing.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\NameAppendIndex.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\UITextSetValue.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\UIToggleWindowAndTab.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Miscellaneous\UIUtility.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Raycast Filters\UICircularRaycastFilter.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Raycast Filters\UIIgnoreRaycast.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Raycast Filters\UIMaskRaycastFilter.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Raycast Filters\UIRectangularRaycastFilter.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Test Scripts\TestElement.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Test Scripts\TestStepBar.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Test Scripts\Test_UIEquipSlot_Assign.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Test Scripts\Test_UIItemSlot_Assign.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Test Scripts\Test_UISlotBase_Assign.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Test Scripts\Test_UISpellSlot_Assign.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Test Scripts\Test_UITalentSlot_Assign.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\ColorTween.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\FloatTween.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\ITweenValue.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\TweenEasing.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\TweenEasingHandler.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\TweenRunner.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\Vector2Tween.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\Tweening\Vector3Tween.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Icon Slot System\UIEquipReceiver.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Icon Slot System\UIEquipSlot.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Icon Slot System\UIItemSlot.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Icon Slot System\UISlotBase.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Icon Slot System\UISlotCooldown.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Icon Slot System\UISpellSlot.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Icon Slot System\UITalentSlot.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Select Field\UISelectField.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Select Field\UISelectField_Arrow.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Select Field\UISelectField_Label.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Select Field\UISelectField_List.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\Select Field\UISelectField_Option.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIButtonExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIButtonExtended_Target.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIDragObject.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIFlippable.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIHighlightTransition.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIPagination.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UISliderExtended.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIStepBar.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UITab.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UITooltip.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIWindow.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Scripts\UI\UIWindowManager.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Simple Sprite Packer\Scripts\SPAction.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Simple Sprite Packer\Scripts\SPActionType.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Simple Sprite Packer\Scripts\SPInstance.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Simple Sprite Packer\Scripts\SPSpriteInfo.cs" />
+    <Compile Include="Assets\AssetSources\Tribal UI for UGUI\Simple Sprite Packer\Scripts\UITexturePacker.cs" />
+    <Compile Include="Assets\Scripts\AssetBundle\BuildPlatform.cs" />
+    <Compile Include="Assets\Scripts\AssetBundle\BuilderConfig.cs" />
+    <Compile Include="Assets\Scripts\AssetBundle\Platform.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Base\BaseModule.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Base\BaseUI.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Common\Singleton\DDOLSingleton.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Common\Singleton\Singleton.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Components\HPAnimBar.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Components\List.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Components\ListItem.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Defines\Difines.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Manager\CoroutineController.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Manager\ModuleManager.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Manager\ResManager.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Manager\UIManager.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\BetterList.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\ElementsMapper.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\EventTriggerListener.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\MethodExtension.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\Tween\AnimationOrTween.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\Tween\TweenScale.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\Tween\UITweener.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\UGUIAltas.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\UIEventListener.cs" />
+    <Compile Include="Assets\Scripts\FrameWork\Tools\UIFixer.cs" />
+    <Compile Include="Assets\Scripts\Game\Module\LoadingModule.cs" />
+    <Compile Include="Assets\Scripts\Game\StartGame.cs" />
+    <Compile Include="Assets\Scripts\Game\Test\Test.cs" />
+    <Compile Include="Assets\Scripts\Game\Test\TestOne.cs" />
+    <Compile Include="Assets\Scripts\Game\Test\TestOtherInfo.cs" />
+    <Compile Include="Assets\Scripts\Game\Test\TestTwo.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\MainView.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\login\LoadingView.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\login\LoaginView.cs" />
+    <None Include="Assets\AssetSources\Tribal UI for UGUI\readme.txt" />
+    <None Include="Assets\AssetSources\Tribal UI for UGUI\Simple Sprite Packer\Changelog.txt" />
+    <None Include="Assets\AssetSources\Tribal UI for UGUI\Simple Sprite Packer\readme.txt" />
+    <None Include="Assets\AssetSources\Tribal UI for UGUI\Changelog.txt" />
+    <Reference Include="UnityEngine.UI">
+      <HintPath>G:/unity5.3/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>G:/unity5.3/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
