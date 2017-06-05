@@ -161,6 +161,13 @@ namespace Builder
 
             var rootLength = resourceRoot.Length + 1;
 
+            List<string> assetBundleFiles = new List<string>(2048);
+            //获取顶级目录，根据bundleTogetherList判断是否单独打包
+            FindAllAssets(resourceRoot, paternDictionary, togetherDictionary, togetherEachOutputDictionary, assetBundleFiles);
+            //构建打包设置项目
+            List<AssetBundle> buildes = new List<AssetBundle>();
+            // Dictionary<string,ResInfo>buildFiles
+
         }
 
 

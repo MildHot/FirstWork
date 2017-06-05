@@ -119,7 +119,7 @@
       <HintPath>G:/unity5.3/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
     </Reference>
     <Reference Include="FFTools">
-      <HintPath>G:/UnityProject/Work/Assets/Editor/FFTools.dll</HintPath>
+      <HintPath>H:/Git/FirstWork/Work/Assets/Editor/FFTools.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Graphs">
       <HintPath>G:/unity5.3/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
